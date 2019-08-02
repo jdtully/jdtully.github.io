@@ -1,5 +1,7 @@
 body {
-    background-color: white
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
 }
 
 h1 {
@@ -34,5 +36,25 @@ ol {
 
 #summary {
     padding-top: 20px;
+    font-size: 20px;
+}
+
+.expHeader {
+
+    font-size: 40px;
+}
+
+.title {
+
+    font-size: 35px;
+}
+
+.locDate {
+
+    font-size: 30px;
+}
+
+.details {
+    text-align: left;
     font-size: 20px;
 }
