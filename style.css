@@ -28,7 +28,11 @@ ol {
     text-align: left
 }
 
-.contact {
-    text-align: left;
-    font-size: 50;
+#contact {
+    font-size: 20px;
+}
+
+#summary {
+    padding-top: 20px;
+    font-size: 20px;
 }
