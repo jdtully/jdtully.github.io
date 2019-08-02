@@ -39,22 +39,32 @@ ol {
     font-size: 20px;
 }
 
-.expHeader {
-
-    font-size: 40px;
+#mainHeader {
+    font-size: 30px;
 }
 
-.title {
+.expHeader {
 
     font-size: 35px;
 }
 
 .locDate {
 
-    font-size: 30px;
+    font-size: 20px;
 }
 
+.title {
+
+    font-size: 20px;
+}
+
+
+
 .details {
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    padding-left: 30px;
     text-align: left;
     font-size: 20px;
 }
