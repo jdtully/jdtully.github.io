@@ -24,6 +24,11 @@ ol {
     text-align: center;
 }
 
-date {
+.date {
     text-align: left
+}
+
+.contact {
+    text-align: left;
+    font-size: 50;
 }
