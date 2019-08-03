@@ -1,4 +1,5 @@
 body {
+    font-family: 'Roboto', sans-serif;
     padding: 0px;
     margin: 0px;
     background-color: white;
@@ -20,6 +21,9 @@ img {
 
 .container {
     width: 1000px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     margin: auto;
     background-color: white;
     overflow-wrap: break-word;
@@ -37,7 +41,8 @@ ol {
 }
 
 .date {
-    text-align: left
+    text-align: left;
+    padding-left: 50px;
 }
 
 #contact {
@@ -62,13 +67,13 @@ ol {
 }
 
 .locDate {
-    padding-left: 20px;
+    padding-left: 40px;
 
     font-size: 20px;
 }
 
 .title {
-    padding-left: 20px;
+    padding-left: 60px;
 
     font-size: 30px;
 }
@@ -79,7 +84,7 @@ ol {
     overflow-wrap: break-word;
     position: relative;
     text-align: left;
-    padding-left: 30px;
+    padding-left: 80px;
     text-align: left;
     font-size: 20px;
 }
