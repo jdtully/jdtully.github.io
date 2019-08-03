@@ -19,6 +19,15 @@ img {
 }
 
 .container {
+    width: 1000px;
+    margin: auto;
+    background-color: white;
+    overflow-wrap: break-word;
+}
+
+.mainBody {
+    width: 1000px;
+    margin: auto;
     background-color: white;
     overflow-wrap: break-word;
 }
