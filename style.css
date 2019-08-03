@@ -46,6 +46,7 @@ ol {
 }
 
 #contact {
+    padding-top: 30px;
     font-size: 20px;
 }
 
@@ -87,4 +88,8 @@ ol {
     padding-left: 80px;
     text-align: left;
     font-size: 20px;
+}
+
+#myName {
+    font-size: 40px
 }
