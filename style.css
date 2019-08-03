@@ -19,7 +19,8 @@ img {
 }
 
 .container {
-    background-color: white
+    background-color: white;
+    overflow-wrap: break-word;
 }
 
 ol {
@@ -35,7 +36,7 @@ ol {
 }
 
 #summary {
-    padding-top: 20px;
+    padding-top: 15px;
     font-size: 20px;
     font-style: italic;
 }
