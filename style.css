@@ -1,16 +1,23 @@
 body {
+    background-image: url("/pictures/blue-and-white-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+
     font-family: 'Roboto', sans-serif;
     padding: 0px;
     margin: 0px;
-    background-color: white;
+    ;
 }
 
 h1 {
-    text-align: center
+    text-align: center;
 }
 
 h2 {
-    text-align: left
+    text-align: left;
 }
 
 img {
@@ -24,14 +31,14 @@ img {
     padding-left: 100px;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: white;
+    background-color: transparent;
     overflow-wrap: break-word;
 }
 
 .mainBody {
     width: 1000px;
     margin: auto;
-    background-color: white;
+    background-color: transparent;
     overflow-wrap: break-word;
 }
 
